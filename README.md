@@ -13,7 +13,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
 
-## 📌 Featured Projects 
+## 📌 Featured Projects  
 
-## 📊 GitHub Stats
-![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngAlaaMahmoud&show_icons=true&theme=radical)
+### 🚍 Bus Booking System  
+A full-stack web app for booking bus tickets online.  
+🔗 [Repository](https://github.com/EngAlaaMahmoud/bus-booking-app)  
+
+### 🛒 E-Commerce Website  
+Built with Angular & .NET Core, supporting payments and cart features.  
+🔗 [Repository](https://github.com/EngAlaaMahmoud/Ecomerce-project)  
