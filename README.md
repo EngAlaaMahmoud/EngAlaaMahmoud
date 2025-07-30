@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Alaa 👋
 
-<!--
-**EngAlaaMahmoud/EngAlaaMahmoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Senior .NET Developer | Backend Specialist  
+🚀 Passionate about building scalable enterprise solutions  
+🌐 [LinkedIn](https://www.linkedin.com/in/alaa-mahmoud-a03772182/) )
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- C#, .NET Core, ASP.NET MVC
+- SQL Server, EF Core, LINQ
+- Angular, TypeScript, HTML, CSS
+- Azure, Docker, Microservices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects 
+
+## 📊 GitHub Stats
+![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngAlaaMahmoud&show_icons=true&theme=radical)
