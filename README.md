@@ -4,6 +4,8 @@
 🚀 Passionate about building scalable enterprise solutions  
 🌐 [LinkedIn](https://www.linkedin.com/in/alaa-mahmoud-a03772182/)
 
+---
+
 ## 🔧 Skills  
 
 ### 💻 Languages  
@@ -52,6 +54,39 @@
 - **Azure DevOps** Best Practices  
 - **Microservices with DDD & Event-Driven Architecture**  
 - Improving **CI/CD Pipelines** using GitLab & GitHub Actions  
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO"/>
+</p>
+
+- 🦈 **Pull Shark** — Awarded for merging pull requests and collaboration  
+- ⚡ **Quickdraw** — Recognized for fast issue responses and engagement  
+- 🚀 **YOLO** — Contribution to a high-velocity repo  
+- ⭐ **4+ Stars** across repositories  
+- 📦 **16+ Repositories** (including enterprise-grade .NET apps)  
+- 🔒 **Private Contributions** enabled to reflect real-world work  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EngAlaaMahmoud&show_icons=true&theme=radical" alt="Alaa's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngAlaaMahmoud&theme=radical" alt="Alaa's GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngAlaaMahmoud&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 ---
 
