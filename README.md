@@ -22,7 +22,9 @@ A full-stack web app for booking bus tickets online.
 ### 🛒 E-Commerce Website  
 Built with Angular & .NET Core, supporting payments and cart features.  
 🔗 [Repository](https://github.com/EngAlaaMahmoud/Ecomerce-project)  
-### 🛒 inventoryAJ  Website (voidex) 
-Built with c# & .NET Core,razor pages  supporting payments and cart features.  
-🔗 [Repository] (https://github.com/EngAlaaMahmoud/inventoryAJ)  
-<img width="1287" height="674" alt="Image" src="https://github.com/user-attachments/assets/8183850e-ed4f-4904-bf12-4f3d0d10a72d" />
+
+### 📦 InventoryAJ (Voidex)  
+Built with C# & .NET Core Razor Pages, supporting payments and cart features.  
+🔗 [Repository](https://github.com/EngAlaaMahmoud/inventoryAJ)  
+
+![Inventory Screenshot](https://github.com/user-attachments/assets/8183850e-ed4f-4904-bf12-4f3d0d10a72d)
