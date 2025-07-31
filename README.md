@@ -28,7 +28,9 @@
 ### ☁️ Cloud & DevOps  
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)  
 ![CI/CD](https://img.shields.io/badge/-CI/CD-4285F4?style=flat&logo=google-cloud&logoColor=white)  
 
 ### 🛠️ Tools & Others  
@@ -42,6 +44,7 @@
 - Domain Driven Design (DDD)  
 - Microservices  
 - Agile & Scrum  
+
 
 ## 📌 Featured Projects  
 
