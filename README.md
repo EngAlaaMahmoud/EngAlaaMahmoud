@@ -45,6 +45,15 @@
 - Microservices  
 - Agile & Scrum  
 
+---
+
+## 🎯 Currently Learning  
+- Advanced **Kubernetes** & Cloud-Native Patterns  
+- **Azure DevOps** Best Practices  
+- **Microservices with DDD & Event-Driven Architecture**  
+- Improving **CI/CD Pipelines** using GitLab & GitHub Actions  
+
+---
 
 ## 📌 Featured Projects  
 
@@ -59,5 +68,4 @@ Built with Angular & .NET Core, supporting payments and cart features.
 ### 📦 InventoryAJ (Voidex)  
 Built with C# & .NET Core Razor Pages, supporting payments and cart features.  
 🔗 [Repository](https://github.com/EngAlaaMahmoud/inventoryAJ)  
-
 ![Inventory Screenshot](https://github.com/user-attachments/assets/8183850e-ed4f-4904-bf12-4f3d0d10a72d)
