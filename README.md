@@ -2,7 +2,7 @@
 
 💻 Senior .NET Developer | Backend Specialist  
 🚀 Passionate about building scalable enterprise solutions  
-🌐 [LinkedIn](https://www.linkedin.com/in/alaa-mahmoud-a03772182/)
+🌐 [LinkedIn](https://www.linkedin.com/in/alaa-mahmoud-88998b3a8/)
 
 ---
 
